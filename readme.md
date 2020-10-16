@@ -6,4 +6,5 @@
 ---
 <img src="./img/animation (3).png">
 ---
-## Checkout my github fo other ptojects [here](https://github.com/AbhijithS-Ark)
+
+## Checkout my github for other projects [here](https://github.com/AbhijithS-Ark)
